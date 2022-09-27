@@ -1,26 +1,24 @@
 # Angela Amaro Portfolio
 
-## About Me
+## Description
 
-## Skills
- /HTML/CSS
+In this portfoliio I have made a foundational website with functionality to display my knowledge of coding so far and past projects. As an artist looks are everything to me so I made sure the website was clearly organized and had a color scheme that was not to jarring on the eyes. I also made little style changes to make the website styling more seamless. This webite will also track future projects to come which is why it was important to include a navigation bar that was interactive. By doing this, no matter how long the website gets the navigation bar can jump to that section of the page. Making this website will help me be prepared to display my work for future employers.
+
+## Usage
+
+![The following snapshot shows the layout of the Portfolio and includes a interactive navigation bar and clickable linked images](/assets/images/profile%20snapshot.png)
+
+
+**Note**: This layout is designed for multiple screen devices such as laptop, iphone, or ipad.
+
+
+## installation
+
+I built this website with no starter code, I started with adding an index.html and css style sheet for a base.  I built the skeleton of the website in the index.html file and all the code with my information and links to images. Next I made selectors to connect to the CSS styling and from there styled the website to look more professional and display my past works in a more organized fashion. 
+
 
  ## Contact
 
- [GitHub](https://github.com/Angela-Amaro)
+ [My GitHub](https://github.com/Angela-Amaro)
 
-[Linkedin](https://www.linkedin.com/in/angela-amaro-342792204/)
-
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+[My Linkedin](https://www.linkedin.com/in/angela-amaro-342792204/)
