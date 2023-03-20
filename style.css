@@ -99,6 +99,7 @@ padding-left: 15px;
     flex-wrap: wrap;
     justify-content: center; 
 }
+/*styled media logos for more formatted look*/
 #gitlogo {
     border-radius: 100%;
 }
