@@ -102,6 +102,7 @@
    }
 
 #cards {
+    list-style-type: none;
     margin: auto;
     width: 50%;
     display: flex;
@@ -111,6 +112,7 @@
 }
 
 #contact {
+    list-style-type: none;
     margin: auto;
     width: 50%;
     display: flex;
